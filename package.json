@@ -1,0 +1,27 @@
+{
+  "name": "cookieduel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmallNic/CookieDuel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmallNic/CookieDuel/issues"
+  },
+  "homepage": "https://github.com/SmallNic/CookieDuel#readme",
+  "dependencies": {
+    "backbone": "^1.2.0",
+    "backbone.mongoose": "^0.1.1",
+    "body-parser": "^1.12.4",
+    "express": "^4.12.4",
+    "hbs": "^3.0.1",
+    "mongoose": "^4.0.3"
+  }
+}
